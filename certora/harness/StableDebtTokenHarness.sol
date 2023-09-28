@@ -1,4 +1,4 @@
-pragma solidity 0.8.10;
+pragma solidity ^0.8.10;
 
 import {StableDebtToken} from '../munged/protocol/tokenization/StableDebtToken.sol';
 import {IncentivizedERC20} from '../munged/protocol/tokenization/base/IncentivizedERC20.sol';

@@ -1,4 +1,4 @@
-pragma solidity 0.8.10;
+pragma solidity ^0.8.10;
 pragma experimental ABIEncoderV2;
 
 import {ReserveConfiguration} from '../munged/protocol/libraries/configuration/ReserveConfiguration.sol';

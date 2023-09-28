@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.10;
+pragma solidity ^0.8.10;
 
 import {VariableDebtToken} from '../munged/protocol/tokenization/VariableDebtToken.sol';
 import {WadRayMath} from '../munged/protocol/libraries/math/WadRayMath.sol';
